@@ -1,0 +1,14 @@
+P3
+
+source video: /home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P4/baumer_video0033.avi
+matches /home/riby/Documents/Aruco/marker_mapper1.0.12/build/utils/Blocks1_2/CableMounted/CableTensionVerification/P4/RvecTvecFIleB1.txt
+
+using command: ./aruco_test_markermap /home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P4/baumer_video0033.avi /home/riby/Documents/CableDrivenRobot/CableModeling/MarkerConfigDetails/B1/block1scrw3.yml /home/riby/Documents/CableDrivenRobot/CableModeling/CameraCalibrationDetails/baumer12mm1mfretake.yml
+
+P1 
+
+source video: /home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P4/baumer_video0032.avi
+
+P2
+
+source video: /home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P4/baumer_video0031.avi
