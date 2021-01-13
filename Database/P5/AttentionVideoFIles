@@ -1,0 +1,18 @@
+P2
+
+/home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P5/baumer_video0070.avi
+
+code
+
+./aruco_test_markermap /home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P5/baumer_video0070.avi /home/riby/Documents/CableDrivenRobot/CableModeling/MarkerConfigDetails/B1/block1scrw3.yml /home/riby/Documents/CableDrivenRobot/CableModeling/CameraCalibrationDetails/baumer12mm1mfretake.yml
+
+P1
+
+/home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P5/baumer_video0072.avi
+
+P3 (along z axis)
+
+/home/riby/Documents/CableDrivenRobot/CableModeling/Videos/P5/p4.jpg
+
+
+P3 from measurements for small workspace
